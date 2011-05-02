@@ -1,6 +1,6 @@
-SRC	    := slideshow.rst
-TARGET  := ${SRC:.rst=.pdf}
-TEX     := ${SRC:.rst=.tex} 
+SRC	:= slideshow.rst
+TARGET := ${SRC:.rst=.pdf}
+TEX := ${SRC:.rst=.tex} 
 
 .PHONY: all clean
 all:: ${TARGET}
