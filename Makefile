@@ -1,4 +1,4 @@
-SRC		:= slideshow.rst
+SRC	    := slideshow.rst
 TARGET  := ${SRC:.rst=.pdf}
 TEX     := ${SRC:.rst=.tex} 
 
