@@ -14,6 +14,7 @@ Example Output
 ==============
 
 ![Example Output](http://www.stephendiehl.com/wp-content/uploads/beautifultex-300x226.png)
+
 [slideshow.pdf](https://github.com/sdiehl/beautiful-beamer/raw/master/slideshow.pdf)
 
 Usage
