@@ -37,5 +37,5 @@ Credits
 =======
 
 * mit-beamer - Justin Riley ( https://github.com/jtriley/mit-beamer )
-* rst2beamer - ryanGT ( https://github.com/ryanGT/rst2beamer )
+* rst2beamer -  Ryan Krauss & Paul-Michael Agapow ( https://github.com/ryanGT/rst2beamer )
 * EB Garamond - Georg Duffner (  http://www.georgduffner.at ) 
