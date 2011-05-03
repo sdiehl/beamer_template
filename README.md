@@ -13,7 +13,16 @@ Beamer presentation without fussing with LaTeX. The output uses:
 Example Output
 ==============
 
+![Example Output](http://www.stephendiehl.com/wp-content/uploads/beautifultex-300x226.png)
 [slideshow.pdf](https://github.com/sdiehl/beautiful-beamer/raw/master/slideshow.pdf)
+
+Usage
+=====
+
+1) Change the `SRC` variable in the Makefile to point to your
+desired file.
+
+2) Run `make` . This will output a pdf with the same name as your input file.
 
 Dependencies
 ============
